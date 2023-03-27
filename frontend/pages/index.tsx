@@ -133,13 +133,13 @@ const Home: NextPage = () => {
             </h1>
             <h1 className="text-2xl lg:text-4xl pt-2 lg:pt-4 lg:pb-6 text-white font-['Impact']">
               {" "}
-              {mintNum} / 5000
+              {mintNum} / 4000
             </h1>
             <a className="text-2xl lg:text-4xl pt-2 lg:pt-8 lg:pb-8 text-white font-['Impact']">
               3
             </a>
             <a className="text-2xl lg:text-3xl pt-2 lg:pt-8 lg:pb-8 text-[#99CDDB] font-['Impact'] ">
-              MAX
+              MAX/per wallet
             </a>
             <br />
 
